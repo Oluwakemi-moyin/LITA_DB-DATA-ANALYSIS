@@ -27,3 +27,6 @@ This is where I documented my first project while learning with Incubator Hub
 SELECT * from Employee
 WHERE condition = True
 ```
+
+### Data Visualization
+

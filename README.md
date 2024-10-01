@@ -14,3 +14,9 @@ This is where I documented my first project while learning with Incubator Hub
 
 ### Data Cleaning and Preparations
 ### Exploratory Data Analysis
+### Data Analysis
+
+```SQL
+SELECT * from Employee
+WHERE condition = True
+```

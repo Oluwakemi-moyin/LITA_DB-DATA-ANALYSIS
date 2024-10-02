@@ -68,3 +68,9 @@ WHERE condition = True
 [lita employee full join.xlsx](https://github.com/user-attachments/files/17230787/lita.employee.full.join.xlsx)
 
 [union all..two stores.csv](https://github.com/user-attachments/files/17230807/union.all.two.stores.csv)
+
+[Excel Functions 2 - Text.xlsx](https://github.com/user-attachments/files/17231157/Excel.Functions.2.-.Text.xlsx)
+
+[Excel Functions 1 - Numbers.xlsx](https://github.com/user-attachments/files/17231156/Excel.Functions.1.-.Numbers.xlsx)
+
+[Excel Functions 3 - LookUp (1).xlsx](https://github.com/user-attachments/files/17231155/Excel.Functions.3.-.LookUp.1.xlsx)

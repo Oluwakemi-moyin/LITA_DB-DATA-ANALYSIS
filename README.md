@@ -68,29 +68,3 @@ WHERE condition = True
 [lita employee full join.xlsx](https://github.com/user-attachments/files/17230787/lita.employee.full.join.xlsx)
 
 
-[Uploadicustomerid, firstname, lastname, customer_gender, age, address, transaction_amount
-100, "ramesh", "abdukl", "male", 24, "8 Ahmed road", 2000
-121, "khilan", "delhi", "female", 33, "9 Delhi Street, okun", 1500
-111, "malik", "delhi", "female", 39, "2agrilv street, makunn", 1999
-110, "kara", "ogun", "male", 40, "10 hahroh road,ottawa", 3400
-109, "sunkanmi", " alade", "male", 44, "9 orebiyi street,okun", 37575
-108, "orebiyi", "kekerekun", "male", 24, "88 malele road, ijebu", 6500
-100, "ramesh", "abdukl", "male", 24, "8 Ahmed road", 2000
-121, "khilan", "delhi", "female", 33, "9 Delhi Street, okun", 1500
-115, "mali", "delli", "female", 39, "2agrilv street, makunn", 1900
-103, "lati", "bawa", "male", 40, "10 hahroh road,ottawa", 4000
-116, "kanmi", " laide", "female", 44, "9 orebiyi street,okun", 37900
-150, "oriki", "funmi", "female", 24, "88 malele road, ijebu", 6500
-100, "ramesh", "abdukl", "male", 24, "8 Ahmed road", 2000
-121, "khilan", "delhi", "female", 33, "9 Delhi Street, okun", 1500
-111, "malik", "delhi", "female", 39, "2agrilv street, makunn", 1999
-110, "kara", "ogun", "male", 40, "10 hahroh road,ottawa", 3400
-109, "sunkanmi", " alade", "male", 44, "9 orebiyi street,okun", 37575
-108, "orebiyi", "kekerekun", "male", 24, "88 malele road, ijebu", 6500
-100, "ramesh", "abdukl", "male", 24, "8 Ahmed road", 2000
-121, "khilan", "delhi", "female", 33, "9 Delhi Street, okun", 1500
-115, "mali", "delli", "female", 39, "2agrilv street, makunn", 1900
-103, "lati", "bawa", "male", 40, "10 hahroh road,ottawa", 4000
-116, "kanmi", " laide", "female", 44, "9 orebiyi street,okun", 37900
-150, "oriki", "funmi", "female", 24, "88 malele road, ijebu", 6500
-ng union all..two stores.csv…]()

@@ -1,4 +1,4 @@
-[union all..two stores.csv](https://github.com/user-attachments/files/17230807/union.all.two.stores.csv)[union all..two stores.csv](https://github.com/user-attachments/files/17230784/union.all.two.stores.csv)# LITA_DB-DATA-ANALYSIS
+# LITA_DB-DATA-ANALYSIS
 
 [Project Title](#project-title)
 
@@ -67,4 +67,4 @@ WHERE condition = True
 
 [lita employee full join.xlsx](https://github.com/user-attachments/files/17230787/lita.employee.full.join.xlsx)
 
-
+[union all..two stores.csv](https://github.com/user-attachments/files/17230807/union.all.two.stores.csv)

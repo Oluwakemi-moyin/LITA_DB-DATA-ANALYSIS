@@ -1,9 +1,20 @@
 # LITA_DB-DATA-ANALYSIS
-This is where I documented my first project while learning with Incubator Hub
 
 [Project Title](#project-title)
 
-[Project Overview](#project-overview)
+[Project Overview](#project-overview) 
+
+[Data Sources](#data-source)
+
+[Tools used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
 
 ### Project Title
 ---
@@ -42,4 +53,6 @@ WHERE condition = True
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
+
+
 

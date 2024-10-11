@@ -68,7 +68,9 @@ This project is to address the following analysis goals.
 ---
 1. Microsoft Excel: used for cleaning the dataset.
 2. If function: was used to calculate transaction category using unit sold for each item.
-   ```Formula: IF($J2<=20, "LOW", IF($J2<=50, "MEDIUM", "HIGH"))
+   ```
+   Formula: IF($J2<=20, "LOW", IF($J2<=50, "MEDIUM", "HIGH"))
+   
 4. Pivot Table: Used to summarize the dataset
 ### Exploratory Data Analysis
 ---

@@ -50,12 +50,13 @@ This project is to address the following analysis goals.
     
 ### Tools used
 ---
-- Microsoft Excel [Download here]()
+- Microsoft Excel [Download here][sales data.xlsx](https://github.com/user-attachments/files/17345479/sales.data.xlsx)
+
   1. For Data cleaning,
   2. Analysis and
   3. Visualization
   
-- Github for Portfoilio Building
+- Github for Portfolio Building
 
 ### Key Metrics
 ---
@@ -66,8 +67,9 @@ This project is to address the following analysis goals.
 ### Data Cleaning and Preparations
 ---
 1. Microsoft Excel: used for cleaning the dataset.
-2. If function: was used to calculate transaction category using unit sold for each item. Formula: IF($J2<=20, "LOW", IF($J2<=50, "MEDIUM", "HIGH"))
-3. Pivot Table: Used to summarize the dataset
+2. If function: was used to calculate transaction category using unit sold for each item.
+   ```Formula: IF($J2<=20, "LOW", IF($J2<=50, "MEDIUM", "HIGH"))
+4. Pivot Table: Used to summarize the dataset
 ### Exploratory Data Analysis
 ---
 1. Pivot table: used to summarize the dataset

@@ -16,8 +16,6 @@
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Analysis](#data-analysis)
-
 [Data Visualization](#data-visualization)
 
     
@@ -72,13 +70,81 @@ This project is to address the following analysis goals.
    Formula: IF($J2<=20, "LOW", IF($J2<=50, "MEDIUM", "HIGH"))
    
 4. Pivot Table: Used to summarize the dataset
-### Exploratory Data Analysis
----
-1. Pivot table: used to summarize the dataset
-### Data Analysis
----
+--
+## Revenue by Region
+
+### Exploratory Data Analysis 
+--
+The use of Pivot table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+
+![Screenshot 2024-10-11 122215](https://github.com/user-attachments/assets/c8db796d-6545-42a7-b965-c876ae6d4d07)
 
 ### Data Visualization
+--
+Filtered chart for year 2014
+![REVENUE BY REGION](https://github.com/user-attachments/assets/1189410a-e7f8-42f0-9407-7c413f4012d3)
+Filtered chart for year 2015
+![RECVENUE BY REGION-2015](https://github.com/user-attachments/assets/288c3afd-e607-40c7-8268-acf559771f1c)
+
+### Inferences:
+--
+1. Overall Revenue Trends
+2. Regional Performance
+3. Revenue Distribution
+4. Strategic Implication
+   
+### Conclusion
+--
+
+## Region by Units Sold
+
+### Exploratory Data Analysis 
+--
+The use of Pivot table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+
+
+
+### Data Visualization
+--
+Filtered chart for year 2014
+
+Filtered chart for year 2015
+
+### Inferences:
+--
+1. Overall Revenue Trends
+2. Regional Performance
+3. Revenue Distribution
+4. Strategic Implication
+   
+### Conclusion
+--
+
+## Region by Average Revenue
+
+### Exploratory Data Analysis 
+--
+The use of Pivot table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+
+
+
+### Data Visualization
+--
+Filtered chart for year 2014
+
+Filtered chart for year 2015
+
+### Inferences:
+--
+1. Overall Revenue Trends
+2. Regional Performance
+3. Revenue Distribution
+4. Strategic Implication
+   
+### Conclusion
+--
+
+
 
 🥇
 
@@ -88,8 +154,6 @@ This project is to address the following analysis goals.
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
 
-![image](https://github.com/user-attachments/assets/342d7b86-156f-404b-ab50-b4105c4e25c8)
 
 
-![image](https://github.com/user-attachments/assets/fa231dd7-802d-479a-b29f-5fc5063ddd1f)
 

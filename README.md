@@ -69,80 +69,100 @@ This project is to address the following analysis goals.
    ```
    Formula: IF($J2<=20, "LOW", IF($J2<=50, "MEDIUM", "HIGH"))
    
-4. Pivot Table: Used to summarize the dataset
---
+3. Pivot Table: Used to summarize the dataset
+---
 ## Revenue by Region
 
 ### Exploratory Data Analysis 
---
-The use of Pivot table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+---
+- The use of Pivot table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
 
 ![Screenshot 2024-10-11 122215](https://github.com/user-attachments/assets/c8db796d-6545-42a7-b965-c876ae6d4d07)
 
 ### Data Visualization
---
-Filtered chart for year 2014
+---
+
+1. Filtered chart for year 2014
+   
 ![REVENUE BY REGION](https://github.com/user-attachments/assets/1189410a-e7f8-42f0-9407-7c413f4012d3)
-Filtered chart for year 2015
+
+2. Filtered chart for year 2015
+
 ![RECVENUE BY REGION-2015](https://github.com/user-attachments/assets/288c3afd-e607-40c7-8268-acf559771f1c)
 
-### Inferences:
---
+### Inferences
+---
 1. Overall Revenue Trends
 2. Regional Performance
 3. Revenue Distribution
 4. Strategic Implication
    
 ### Conclusion
---
+---
 
 ## Region by Units Sold
 
 ### Exploratory Data Analysis 
---
-The use of Pivot table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+---
+- The use of Pivot table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
 
+![Region by unit sold-2014-pivot table](https://github.com/user-attachments/assets/c7b15ecc-9b24-4326-9fc7-86761b51c0b1)
+![Region by unit sold-2015-pivot table](https://github.com/user-attachments/assets/fec678cd-ff57-402b-869e-d2ab650e959b)
 
 
 ### Data Visualization
---
+---
 Filtered chart for year 2014
+
+![Region by Units sold-2014](https://github.com/user-attachments/assets/640ada20-4aa8-484f-973b-9b3dc7565c8d)
+
 
 Filtered chart for year 2015
 
+![Region by Units sold-2015](https://github.com/user-attachments/assets/20696812-ba1d-4606-b08b-6765b14f54da)
+
+
 ### Inferences:
---
+---
 1. Overall Revenue Trends
 2. Regional Performance
 3. Revenue Distribution
 4. Strategic Implication
    
 ### Conclusion
---
+---
 
 ## Region by Average Revenue
 
 ### Exploratory Data Analysis 
---
-The use of Pivot table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+---
+- The use of Pivot table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
 
+![Region by average revenue-2015-pivot table](https://github.com/user-attachments/assets/02ef8232-c1c7-4f61-b8cf-1aeba3228329)
+![Region by average revenue-2014-pivot table](https://github.com/user-attachments/assets/66d25dd3-1fd1-42ee-861b-ede0491314da)
 
 
 ### Data Visualization
---
+---
 Filtered chart for year 2014
+
+![average revenue by region-2014](https://github.com/user-attachments/assets/6f68776c-1f58-4901-94f7-1a28620e209a)
+
 
 Filtered chart for year 2015
 
+![average revenue by region-2015](https://github.com/user-attachments/assets/797c1da0-e432-4172-aa9d-9e47029c97d7)
+
+
 ### Inferences:
---
+---
 1. Overall Revenue Trends
 2. Regional Performance
 3. Revenue Distribution
 4. Strategic Implication
    
 ### Conclusion
---
+---
 
 
 

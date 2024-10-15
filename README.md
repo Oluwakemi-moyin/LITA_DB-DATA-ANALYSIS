@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6aeef210-6578-493b-967d-b38b6dbd9b20)# SALES DATA ANALYSIS PROJECT
+# SALES DATA ANALYSIS PROJECT
 
 [Project Overview](#project-overview) 
 
@@ -77,18 +77,22 @@ This project is to address the following analysis goals.
 ---
 - The use of Pivot table to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
 
-![Screenshot 2024-10-11 122215](https://github.com/user-attachments/assets/c8db796d-6545-42a7-b965-c876ae6d4d07)
+
+![Revenue for 2014-pivot table](https://github.com/user-attachments/assets/c41c43da-c0ee-4e91-aa4c-bc8340d754dd)
+![Revenue for 2015- pivot table](https://github.com/user-attachments/assets/be2ba993-1c8e-49a6-ada3-b1928059c1b8)
 
 ### Data Visualization
 ---
 
 1. Filtered chart for year 2014
    
-![REVENUE BY REGION](https://github.com/user-attachments/assets/1189410a-e7f8-42f0-9407-7c413f4012d3)
+![REVENUE BY REGION](https://github.com/user-attachments/assets/d1909c79-f6a9-4088-9100-1c55f3409e21)
+
 
 2. Filtered chart for year 2015
 
-![RECVENUE BY REGION-2015](https://github.com/user-attachments/assets/288c3afd-e607-40c7-8268-acf559771f1c)
+![RECVENUE BY REGION-2015](https://github.com/user-attachments/assets/274a596d-a8c3-4015-a1db-da71ba321d00)
+
 
 ### Inferences
 ---
@@ -170,19 +174,22 @@ Filtered chart for year 2015
 
 💻
 TOTAL REVENUE
+
 |Heading 1|Heading 2|Heading 3|
-|2014 DATA|2015 DATA|TOTAL|
+|2014|2015|TOTAL DATA|
 |48,464,608,200.00|24,567,382,080.00|73,031,990,280.00|
 
 TOTAL AVERAGE REVENUE
+
 |Heading 1|Heading 2|Heading 3|
-|2014 DATA|2015 DATA|TOTAL|
-|2,383,427.18|2,347,575.93|4,731,003.10|
+|2014 DATA|2015 DATA|TOTAL DATA|
+|2383427.18|2347575.93|4731003.10|
 
 Total Units Sold
+
 |Heading 1|Heading 2|Heading 3|
-|2014 data|2015 data|Total|
-|517,013.00|269,665.00|786,678.00|
+|2014 data|2015 data|Total DATA|
+|517013.00|269665.00|786678.00|
 
 
 

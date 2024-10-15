@@ -1,4 +1,4 @@
-# SALES DATA ANALYSIS PROJECT
+![image](https://github.com/user-attachments/assets/6aeef210-6578-493b-967d-b38b6dbd9b20)# SALES DATA ANALYSIS PROJECT
 
 [Project Overview](#project-overview) 
 
@@ -169,11 +169,20 @@ Filtered chart for year 2015
 🥇
 
 💻
-
+TOTAL REVENUE
 |Heading 1|Heading 2|Heading 3|
-|---------|---------|---------|
-|Table 1|Table 2|Table 3|
+|2014 DATA|2015 DATA|TOTAL|
+|48,464,608,200.00|24,567,382,080.00|73,031,990,280.00|
 
+TOTAL AVERAGE REVENUE
+|Heading 1|Heading 2|Heading 3|
+|2014 DATA|2015 DATA|TOTAL|
+|2,383,427.18|2,347,575.93|4,731,003.10|
+
+Total Units Sold
+|Heading 1|Heading 2|Heading 3|
+|2014 data|2015 data|Total|
+|517,013.00|269,665.00|786,678.00|
 
 
 

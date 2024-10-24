@@ -1,4 +1,4 @@
-# SALES DATA ANALYSIS PROJECT
+# RETAIL STORE SALES- DATA ANALYSIS
 
 [Project Overview](#project-overview) 
 

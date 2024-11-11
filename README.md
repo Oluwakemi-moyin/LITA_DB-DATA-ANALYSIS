@@ -78,13 +78,16 @@ This project is to address the following analysis goals.
 
 ### Dashboard Overview
 ---
+![Screenshot 2024-11-11 154007](https://github.com/user-attachments/assets/7efc55ce-69cf-4efa-a32a-e58d244fd771)
 
 
 ## Revenue by Region
 
 ### Exploratory Data Analysis 
 ---
-- The use of tables to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+The use of tables to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+
+![Screenshot 2024-11-10 221128](https://github.com/user-attachments/assets/fbfc991e-e448-445c-a8c8-18e6ba4c2b4a)
 
 
 
@@ -93,18 +96,25 @@ This project is to address the following analysis goals.
 
 1. Filtered chart for year 2014
    
+![Screenshot 2024-11-11 154436](https://github.com/user-attachments/assets/6ebb90c4-4d7f-49e3-bcdc-0f1aeee56d19)
 
 
 
 2. Filtered chart for year 2015
 
+![Screenshot 2024-11-11 154620](https://github.com/user-attachments/assets/215977c7-98ac-4e60-b404-c2ea6f4f2971)
 
 
 
 ### Inferences
 ---
 1. Overall Revenue Trends
-   - 
+   - Year 2014 had a total Revenue of 48,464,608,200 USD.
+   - Year 2015 had a total Revenue of 24,567,382,080 USD.
+   - The Total Revenue for Year 2015 dropped from that of Year 2014 by a margin of 49.31%.
+   - In Year 2014, the month of MAY had the highest total Revenue of 4,213,543,680 USD WHILE the month of SEPTEMBER had the lowest Total Revenue of 3,876,659,640 USD.
+   - In Year 2015, the month of MARCH had the highest total Revenue of 4,300,901,520 USD WHILE the month of FEBRUARY had the lowest Total Revenue of 4,017,994,560 USD.
+    
 2. Regional Performance
    - 
 3. Revenue Distribution
@@ -168,7 +178,7 @@ Filtered chart for year 2015
 ### Inferences:
 ---
 1. Overall Revenue Trends
-   -
+   - 
 2. Regional Performance
    -
 3. Revenue Distribution

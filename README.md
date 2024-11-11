@@ -1,4 +1,4 @@
-# RETAIL STORE SALES- DATA ANALYSIS
+# LITA INVENTORY ANALYSIS
 
 [Project Overview](#project-overview) 
 
@@ -48,12 +48,11 @@ This project is to address the following analysis goals.
     
 ### Tools used
 ---
-- Microsoft Excel [Download here][sales data.xlsx](https://github.com/user-attachments/files/17345479/sales.data.xlsx)
-
-  1. For Data cleaning,
-  2. Analysis and
-  3. Visualization
-  
+- Microsoft Excel [Download here]([LITA Class Inventory.xlsx](https://github.com/user-attachments/files/17700021/LITA.Class.Inventory.xlsx))
+  1. For Data cleaning
+- Power BI
+  1. Analysis and
+  2. Visualization
 - Github for Portfolio Building
 
 ### Key Metrics

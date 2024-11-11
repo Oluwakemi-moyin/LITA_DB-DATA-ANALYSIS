@@ -25,7 +25,7 @@
     
 ### Project Overview
 ---
-Collection and analysis of sales data across the company's various sales regions, markets and stores. The goal of the project is to provide insights into revenue, units sold and transaction category over a two year-period.The analysis focuses on understanding sales performance and revenue trends across various regions and calculating important performance indicators like average revenue and average unit sold per store/region. 
+Collection and analysis of sales data across the company's various sales regions, markets and stores. The goal of the project is to provide insights into revenue, units sold and transaction category over a two year-period. The analysis focuses on understanding sales performance and revenue trends across various regions and calculating important performance indicators like average revenue and average unit sold per store/region. 
     
 ### Data Source
 ---    
@@ -52,7 +52,7 @@ This project is to address the following analysis goals.
     
 ### Tools used
 ---
-- Microsoft Excel [Download here]([LITA Class Inventory.xlsx](https://github.com/user-attachments/files/17700021/LITA.Class.Inventory.xlsx))
+- Microsoft Excel [Download here](https://github.com/user-attachments/files/17700021/LITA.Class.Inventory.xlsx)
   1. For Data cleaning
 - Power BI [Download here](
   1. Analysis and
@@ -78,7 +78,7 @@ This project is to address the following analysis goals.
 
 ### Dashboard Overview
 ---
-![Screenshot 2024-11-11 154007](https://github.com/user-attachments/assets/7efc55ce-69cf-4efa-a32a-e58d244fd771)
+
 
 
 ## Revenue by Region
@@ -116,10 +116,17 @@ The use of tables to organize, summarize, and analyze datasets, making it easier
    - In Year 2015, the month of MARCH had the highest total Revenue of 4,300,901,520 USD WHILE the month of FEBRUARY had the lowest Total Revenue of 4,017,994,560 USD.
     
 2. Regional Performance
-   - 
+   - In 2014, North East brought in the the highest total revenue of 12,489,746,040 USD followed by South West. However, North Central brought in the lowest total revenue of 4,318,864,800 USD.
+   - In 2015, North East brought in the the highest total revenue of 6,152,217,480 USD followed by South West. However, North Central brought in the lowest total revenue of 2,170,467,840 USD.
+
 3. Revenue Distribution
-   -
+   - The line of business that brought the bulk of revenue is the Service plan bringing in 71.02% of the total Revenue. While Printer sale brought in 8.29% which is the lowest % of total revenue.
+   - Revenue is not evenly distributed among the regions. With North East and South West bringing in the bulk of revenue for the company.
+
 4. Strategic Implication
+   - The company generates more Revenue from the Service Plan compared to other line of businesses.
+   - The Top two best regions where the company generates the most revenue are North East and South West
+   - Data for Year 2015 is not complete, as we only have record of January to 
    
 ### Conclusion
 ---

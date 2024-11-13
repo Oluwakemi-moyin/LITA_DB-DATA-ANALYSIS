@@ -75,7 +75,15 @@ This project is to address the following analysis goals.
 3. Power BI :
    - for Summarisation of the dataset and
    - for Visualisations.
-
+4. DAX functions :
+   - Calculated Columns. e.g Monthly trade date
+   ```
+   Formula: 'Sheet1 (2)'[Trade Date].[Month]
+   ```
+   - Calculated Measure e.g Target
+   ```
+   Formula: 1,000,000,000
+   ```
 ### Dashboard Overview
 ---
 
@@ -121,16 +129,19 @@ The use of tables to organize, summarize, and analyze datasets, making it easier
 
 3. Revenue Distribution
    - The line of business that brought the bulk of revenue is the Service plan bringing in 71.02% of the total Revenue. While Printer sale brought in 8.29% which is the lowest % of total revenue.
-   - Revenue is not evenly distributed among the regions. With North East and South West bringing in the bulk of revenue for the company.
+   - Revenue is not evenly distributed among the regions. With North East and South West bringing in the bulk of revenue for the company compared to other regions.
 
 4. Strategic Implication
    - The company generates more Revenue from the Service Plan compared to other line of businesses.
-   - The Top two best regions where the company generates the most revenue are North East and South West
-   - Data for Year 2015 is not complete, as we only have record of January to 
+   - Printer sales generated the lowest total revenue.
+   - The Top two best regions where the company generates the most revenue are North East and South West.
+   - The lowest performing region is the North Central.
+   - Data for Year 2015 is not complete, as we only have record of January to June so we cannot make concrete conclusion about the year's performance compared to Year 2014.
    
 ### Conclusion
 ---
-
+These are my recommendations;
+1. The Company should focus on ways of generating more sales from the Service plan since that is the best performing plan. More Sales will lead to greater Revenue for the Company.
 ## Region by Units Sold
 
 ### Exploratory Data Analysis 

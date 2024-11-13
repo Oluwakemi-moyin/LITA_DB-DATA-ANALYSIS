@@ -87,6 +87,7 @@ This project is to address the following analysis goals.
 ### Dashboard Overview
 ---
 
+![Screenshot 2024-11-13 190114](https://github.com/user-attachments/assets/c1ca987e-a33b-4d77-8f6d-9453532dc8a0)
 
 
 ## Revenue by Region
@@ -124,13 +125,16 @@ The use of tables to organize, summarize, and analyze datasets, making it easier
    - In Year 2015, the month of MARCH had the highest total Revenue of 4,300,901,520 USD WHILE the month of FEBRUARY had the lowest Total Revenue of 4,017,994,560 USD.
     
 2. Regional Performance
-   - In 2014, North East brought in the the highest total revenue of 12,489,746,040 USD followed by South West. However, North Central brought in the lowest total revenue of 4,318,864,800 USD.
-   - In 2015, North East brought in the the highest total revenue of 6,152,217,480 USD followed by South West. However, North Central brought in the lowest total revenue of 2,170,467,840 USD.
+   - In 2014, North East brought in the the highest total revenue of 12,489,746,040 USD followed by South West. However, North Central brought in the lowest total revenue of 
+     4,318,864,800 USD.
+   - In 2015, North East brought in the the highest total revenue of 6,152,217,480 USD followed by South West. However, North Central brought in the lowest total revenue of 
+     2,170,467,840 USD.
 
 3. Revenue Distribution
-   - The line of business that brought the bulk of revenue is the Service plan bringing in 71.02% of the total Revenue. While Printer sale brought in 8.29% which is the lowest % of total revenue.
+   - The line of business that brought the bulk of revenue is the Service plan bringing in 71.02% of the total Revenue. While Printer sale brought in 8.29% which is the lowest % 
+     of total revenue.
    - Revenue is not evenly distributed among the regions. With North East and South West bringing in the bulk of revenue for the company compared to other regions.
-
+   - In 2014, the Company's total revenue was 4746.46% more than the Target of 1billion usd for the year.  It met the target and exceeded by 2356.74% in Year 2015.
 4. Strategic Implication
    - The company generates more Revenue from the Service Plan compared to other line of businesses.
    - Printer sales generated the lowest total revenue.
@@ -141,8 +145,11 @@ The use of tables to organize, summarize, and analyze datasets, making it easier
 ### Conclusion
 ---
 These are my recommendations;
-1. The Company should focus on ways of generating more sales from the Service plan since that is the best performing plan. More Sales will lead to greater Revenue for the Company. These could be through Sales Promos,             Discounts,etc.
+1. The Company should focus on ways of generating more sales from the Service plan since that is the best performing plan. More Sales will lead to greater Revenue for the 
+   Company. These could be through Sales Promos, Discounts,etc.
 2. Implementation of ways to increase sales in the North Central region which can help boost the region's total revenue.
+3. The company needs to decide if Printer sales as a line of business is profitable to the company and if it is worth continuing, as it brought in the lowest revenue in both 
+   years in review.
 
 ## Region by Units Sold
 
@@ -158,53 +165,81 @@ The use of tables to organize, summarize, and analyze datasets, making it easier
 ---
 Filtered chart for year 2014
 
+![Screenshot 2024-11-13 192239](https://github.com/user-attachments/assets/f050e477-f5e0-4b87-9136-98dcf4b29356)
+
 
 
 Filtered chart for year 2015
+
+![Screenshot 2024-11-13 192302](https://github.com/user-attachments/assets/d1b619a0-7819-41c6-bbbe-f5a0ca4d5618)
 
 
 
 
 ### Inferences:
 ---
-1. Overall Revenue Trends
-   - 
+1. Overall Total Sales Trends
+   - In 2014, Total sales was 517,013units.
+   - In 2015, the figures dropped lower by 47.8% to 269,665units which is almost half of the value for the previous year.
+   - In 2014, June had the highest total sales of 46,045units of which majority was from Parts and the month with the lowest total sales is January with 39,350units
+   - In 2015, March  had the highest total sales of 46,656units and the month with the lowest total sales is February with 43,738.
 2. Regional Performance
-   -
-3. Revenue Distribution
-   -
+   -In 2014, the region with the highest total units sales of 138,582units was the North East, closely followed by South west with 110,502units.While the region with lowest 
+     total sales was North Central with 35,887units.
+   - In 2015,North East had the highest total sales of 70,401units, closely followed by South west with 59,228units sold. North central brought in the lowest sales of 
+     18,365UNITS.
+3. Sales Distribution
+   - The line of business that brought in the bulk of total sales is Parts with 62.77% of the total units sold closely followed by Service plan with 32.77% of total sales. The 
+     least performing line of business of the company is Printer sales with 1.63%$ of total sales.
+    - Although Parts has the bulk of total sales, overall, it still has a much lower contribution to total revenue compared to Service plan.
+    - Ekiti Market has the highest sales of 51,386 which is 6.53% of the overall total sales for both periods. Osun Market had the lowest sales of 1.35%of the overall total 
+      sales.
+    - Number of stores reduced from 132 in Year 2014 to 128 in Year 2015.
 4. Strategic Implication
-   - 
+   - Although Parts has the bulk of total sales, overall, it still has a much lower contribution to total revenue compared to Service plan.
+   - This could be as a result of lower prices for PARTS compared to SERVICE PLAN.
+   - The month of January is an overall low sales month for the company for both periods in review.
+     
 ### Conclusion
 ---
-
+1. The company should introduce January special sales with lower prices to increase total sales in that period going forward. As a higher total sales leads to higher revenue for 
+   the company.
+2. There should be a price review for PARTS. Higher prices will lead to higher total Revenue.
+   
 ## Region by Average Revenue
 
 ### Exploratory Data Analysis 
 ---
-- The use of tables to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+The use of tables to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
 
-
+![Screenshot 2024-11-10 221414](https://github.com/user-attachments/assets/234f7ce3-9347-4006-9033-24e58836492a)
 
 
 ### Data Visualization
 ---
-Filtered chart for year 2014
+- Filtered chart for year 2014
+
+![Screenshot 2024-11-13 204149](https://github.com/user-attachments/assets/45494090-8db5-4978-9b2b-4766cfe3bee6)
 
 
-Filtered chart for year 2015
+- Filtered chart for year 2015
 
+![Screenshot 2024-11-13 204310](https://github.com/user-attachments/assets/3e32fad0-1b72-4787-9e8b-2e8f8b3b41f2)
 
 
 
 ### Inferences:
 ---
 1. Overall Revenue Trends
-   - 
+   - In 2014, The average revenue was 2,383,427.2USD.
+   - In 2015, The average revenue was 2,347,575.9 USD .
+   - When Sum of units sold is more than 60units, the average revenue is 11,759,565.90 USD higher compared to other values.
+   - When sum of units sold is 2units or less, the average revenue is 1,941,176.79 USD lower tha other values.
 2. Regional Performance
-   -
+   - In 2014, North central had the highest average revenue of 3,525,603.9USD While South East had the lowest average revenue of 2,146,641.3USD.
+   - In 2015, North central had the highest average revenue of 3,500,754.6 USD While North East had the lowest average revenue of 2,127,322.8USD.
 3. Revenue Distribution
-   -
+   - Service plan brought in the highest % of average revenue of 39.19% while Parts brought in 5.08% of the overall average revenue.
 4. Strategic Implication
    - 
 ### Conclusion

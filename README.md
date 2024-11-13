@@ -141,12 +141,16 @@ The use of tables to organize, summarize, and analyze datasets, making it easier
 ### Conclusion
 ---
 These are my recommendations;
-1. The Company should focus on ways of generating more sales from the Service plan since that is the best performing plan. More Sales will lead to greater Revenue for the Company.
+1. The Company should focus on ways of generating more sales from the Service plan since that is the best performing plan. More Sales will lead to greater Revenue for the Company. These could be through Sales Promos,             Discounts,etc.
+2. Implementation of ways to increase sales in the North Central region which can help boost the region's total revenue.
+
 ## Region by Units Sold
 
 ### Exploratory Data Analysis 
 ---
-- The use of tables to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+The use of tables to organize, summarize, and analyze datasets, making it easier to discover patterns and insights in the dataset.
+
+![Screenshot 2024-11-10 221303](https://github.com/user-attachments/assets/780e7192-f829-48e9-962c-e9a05e67f80d)
 
 
 

@@ -194,7 +194,7 @@ Filtered chart for year 2015
     - Although Parts has the bulk of total sales, overall, it still has a much lower contribution to total revenue compared to Service plan.
     - Ekiti Market has the highest sales of 51,386 which is 6.53% of the overall total sales for both periods. Osun Market had the lowest sales of 1.35%of the overall total 
       sales.
-    - Number of stores reduced from 132 in Year 2014 to 128 in Year 2015.
+    - Number of stores reduced from 132 in Year 2014 to 128 in Year 2015. KWALI, BOKI, NGWA SOUTH AND  
 4. Strategic Implication
    - Although Parts has the bulk of total sales, overall, it still has a much lower contribution to total revenue compared to Service plan.
    - This could be as a result of lower prices for PARTS compared to SERVICE PLAN.
@@ -244,6 +244,7 @@ The use of tables to organize, summarize, and analyze datasets, making it easier
    - 
 ### Conclusion
 ---
+These are my Recommendations;
 
 
 ### Tables

@@ -194,20 +194,30 @@ Filtered chart for year 2015
     - Although Parts has the bulk of total sales, overall, it still has a much lower contribution to total revenue compared to Service plan.
     - Ekiti Market has the highest sales of 51,386 which is 6.53% of the overall total sales for both periods. Osun Market had the lowest sales of 1.35%of the overall total 
       sales.
-    - Number of stores reduced from 132 in Year 2014 to 128 in Year 2015. KWALI, BOKI, NGWA SOUTH AND have the lowest sales in Year 2014. However, in 2015 , the 4 stores 
+    - Number of stores reduced from 132 in Year 2014 to 128 in Year 2015. KWALI, BOKI, Chibok and Isiala Ngwa SOUTH have the lowest sales in Year 2014. However, in 2015 , the 4 
+      stores recorded no sales at all.
       recorded no sales at all.
-    - Kwali sold 4units in year 2014, only in the month of April.
-    - Isiala Ngwa South sold 54 units in July of year 2014.
+    - Kwali sold 4units of Model: 4500P in April 5, 2014. No sales was recorded in Year 2015.
+    - Isiala Ngwa South sold 54 units of Model: 4500P in July 18 of year 2014. No sales was recorded in Year 2015.
+    - Boki store sold 1 unit of Model: 4500Pin February 9, 2014 and 1unit in June 17 2014. No sales was recorded in Year 2015.
+    - Chibok store sold 42units of Model 4500C in December 8, 2014.  No sales was recorded in Year 2015.
+    - Akinyele store had no record of sales from Month April to June in Year 2015.
 4. Strategic Implication
    - Although Parts has the bulk of total sales, overall, it still has a much lower contribution to total revenue compared to Service plan.
    - This could be as a result of lower prices for PARTS compared to SERVICE PLAN.
    - The month of January is an overall low sales month for the company for both periods in review.
+   - 4 stores have consistent low sales. No sales was recorded for these stores(KWALI, BOKI, Chibok and Isiala Ngwa SOUTH) in Year 2015. These brought in no revenue for the 
+     Company in the year 2015.
      
 ### Conclusion
 ---
+These are my recommendations;
 1. The company should introduce January special sales with lower prices to increase total sales in that period going forward. As a higher total sales leads to higher revenue for 
    the company.
 2. There should be a price review for PARTS. Higher prices will lead to higher total Revenue.
+3. The company should introduce other Models from both Service Plan and other Line of business to the Stores that have low sales like Boki , Kwali, Isiala Ngwa South and Chibok. 
+   This should help increase total sales in these stores. Their progress should be closely monitored for feedback.
+4. Boki and Kwali stores should be considered for closure as they are bringing little or no sales to the Company.
    
 ## Region by Average Revenue
 
@@ -230,7 +240,6 @@ The use of tables to organize, summarize, and analyze datasets, making it easier
 ![Screenshot 2024-11-13 204310](https://github.com/user-attachments/assets/3e32fad0-1b72-4787-9e8b-2e8f8b3b41f2)
 
 
-
 ### Inferences:
 ---
 1. Overall Revenue Trends
@@ -247,10 +256,16 @@ The use of tables to organize, summarize, and analyze datasets, making it easier
    - There is a positive relationship between Sum of units sold, average revenue and revenue. A higher Total sales leads to a higher average revenue and consequentially, a 
      higher total revenue.
    - The company generates more Revenue on the average from the Service Plan compared to other line of businesses.
-   - Printer sales generated the lowest revenue on the average. 
+   - Printer sales generated the lowest revenue on the average.
+   - North central had the highest average revenue due to the fact that it has the lowest number of stores under the region (8 stores)
 ### Conclusion
 ---
 These are my Recommendations;
+1. The Company should focus on ways of generating more sales from the Service plan since that is the best performing plan. More Sales will lead to greater Revenue for the 
+   Company. These could be through Sales Promos, Discounts,etc.
+2. Implementation of ways to increase sales in the North Central region which can help boost the region's total revenue.
+3. The company needs to decide if Printer sales as a line of business is profitable to the company and if it is worth continuing, as it brought in the lowest revenue in both 
+   years in review.
 
 
 ### Tables
@@ -263,13 +278,13 @@ These are my Recommendations;
 
 2. TOTAL AVERAGE REVENUE
 
-|2014 DATA|2015 DATA|TOTAL AVERAGE REVENUE|
+|2014|2015|TOTAL AVERAGE REVENUE|
 |-----|-----|-----|
 |2,383,427.18|2,347,575.93|4,731,003.10|
 
 3. Total Units Sold
 
-|2014 data|2015 data|TOTAL UNITS SOLD|
+|2014|2015|TOTAL UNITS SOLD|
 |-----|-----|-----|
 |517,013.00|269,665.00|786,678.00|
 

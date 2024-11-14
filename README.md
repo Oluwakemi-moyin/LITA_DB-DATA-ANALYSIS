@@ -54,7 +54,7 @@ This project is to address the following analysis goals.
 ---
 - Microsoft Excel [Download here](https://github.com/user-attachments/files/17700021/LITA.Class.Inventory.xlsx)
   1. For Data cleaning
-- Power BI [Download here](
+- Power BI [Download here](https://github.com/Oluwakemi-moyin/LITA_DB-DATA-ANALYSIS/blob/0756a86d2c9868b3f3c3ab6bdbfa9ade1973f43e/LITA%20INVENTORY%20ANALYSIS.pbix)
   1. Analysis and
   2. Visualization
 - Github for Portfolio Building
@@ -194,7 +194,10 @@ Filtered chart for year 2015
     - Although Parts has the bulk of total sales, overall, it still has a much lower contribution to total revenue compared to Service plan.
     - Ekiti Market has the highest sales of 51,386 which is 6.53% of the overall total sales for both periods. Osun Market had the lowest sales of 1.35%of the overall total 
       sales.
-    - Number of stores reduced from 132 in Year 2014 to 128 in Year 2015. KWALI, BOKI, NGWA SOUTH AND  
+    - Number of stores reduced from 132 in Year 2014 to 128 in Year 2015. KWALI, BOKI, NGWA SOUTH AND have the lowest sales in Year 2014. However, in 2015 , the 4 stores 
+      recorded no sales at all.
+    - Kwali sold 4units in year 2014, only in the month of April.
+    - Isiala Ngwa South sold 54 units in July of year 2014.
 4. Strategic Implication
    - Although Parts has the bulk of total sales, overall, it still has a much lower contribution to total revenue compared to Service plan.
    - This could be as a result of lower prices for PARTS compared to SERVICE PLAN.
@@ -241,7 +244,10 @@ The use of tables to organize, summarize, and analyze datasets, making it easier
 3. Revenue Distribution
    - Service plan brought in the highest % of average revenue of 39.19% while Parts brought in 5.08% of the overall average revenue.
 4. Strategic Implication
-   - 
+   - There is a positive relationship between Sum of units sold, average revenue and revenue. A higher Total sales leads to a higher average revenue and consequentially, a 
+     higher total revenue.
+   - The company generates more Revenue on the average from the Service Plan compared to other line of businesses.
+   - Printer sales generated the lowest revenue on the average. 
 ### Conclusion
 ---
 These are my Recommendations;
